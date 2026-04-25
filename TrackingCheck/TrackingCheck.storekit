@@ -1,0 +1,28 @@
+{
+  "identifier" : "88143341-6031-4EDC-8DC2-8BE9B6F9A2DC",
+  "nonConsumableProducts" : [
+    {
+      "displayName" : "Pro",
+      "familyShareable" : false,
+      "internalID" : "00B3C6C2-6F2F-4A99-9644-D35094C38061",
+      "localizations" : [
+        {
+          "description" : "Unlock unlimited saved sites and detailed Check Again differences.",
+          "displayName" : "Pro",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.akashi.TrackingCheck.pro",
+      "referenceName" : "Pro",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+    "_askToBuyEnabled" : false,
+    "_storeKitErrors" : []
+  },
+  "version" : {
+    "major" : 3,
+    "minor" : 0
+  }
+}
