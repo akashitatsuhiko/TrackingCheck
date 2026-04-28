@@ -2,7 +2,7 @@
 
 A small iPhone utility for checking whether a website appears to use GA4, GTM, and Google Ads. Run a quick check, save important sites, and compare changes over time without creating an account.
 
-Service URL: App Store link coming soon
+Service URL: https://apps.apple.com/jp/app/tracking-check/id6763575346
 
 ---
 
